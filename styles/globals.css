@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.chat-container {
+   position: fixed;
+    left: 10px;
+    bottom: 10px;
+}
+
+.chatroom {
+  background-color: hsl(0deg 0% 56%);
+}
